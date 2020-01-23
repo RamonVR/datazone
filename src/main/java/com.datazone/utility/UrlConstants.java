@@ -12,5 +12,6 @@ public class UrlConstants {
     public static final String CLIENTE_ELIMINAR = "/eliminar";
     public static final String CLIENTE_LISTAR = "/listar";
     public static final String CLIENTE_SALUDO = "/saludar";
+    public static final String CLIENTE_SALUDO2 = "/saludar2";
 
 }
